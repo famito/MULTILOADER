@@ -1,0 +1,7 @@
+{
+    "statuses": [
+        { "id": "online", "label": "Online", "color": "#28A745" },
+        { "id": "offline", "label": "Offline", "color": "#DC3545" },
+        { "id": "updating", "label": "Updating", "color": "#FFC107" }
+    ]
+}
