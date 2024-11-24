@@ -1,0 +1,5 @@
+{
+    "statusFile": "https://raw.githubusercontent.com/user/repo/main/status.json",
+    "loadersFile": "https://raw.githubusercontent.com/user/repo/main/loaders.json",
+    "categoriesFile": "https://raw.githubusercontent.com/user/repo/main/categories.json"
+}
