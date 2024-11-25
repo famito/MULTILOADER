@@ -1,0 +1,21 @@
+{
+  "statuses": [
+    {
+      "id": "online",
+      "label": "En ligne"
+    },
+    {
+      "id": "offline",
+      "label": "Hors ligne"
+    },
+    {
+      "id": "updating",
+      "label": "Mise à jour"
+    },
+    {
+      "id": "custom",
+      "label": "Statut personnalisé"
+    }
+    // Ajoutez d'autres statuts si nécessaire
+  ]
+}
