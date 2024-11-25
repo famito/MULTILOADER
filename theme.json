@@ -1,8 +1,9 @@
 {
     "theme": {
-        "primaryColor": "#FF0078D7",
-        "accentColor": "#FF232323",
-        "backgroundColor": "#FFF0F0F0",
-        "hoverColor": "#FF1A1A1A"
+        "primaryColor": "#0078D7",
+        "secondaryColor": "#FFAA00",
+        "backgroundColor": "#1A1A1A",
+        "textColor": "#FFFFFF",
+        "hoverColor": "#505050"
     }
 }
