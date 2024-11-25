@@ -1,0 +1,23 @@
+{
+  "loaders": [
+    {
+      "id": "loader1",
+      "name": "Loader 1",
+      "categoryId": "category1",
+      "downloadUrl": "https://example.com/loader1.zip",
+      "status": "online",
+      "version": "1.0.0",
+      "description": "Description du loader 1"
+    },
+    {
+      "id": "loader2",
+      "name": "Loader 2",
+      "categoryId": "category2",
+      "downloadUrl": "https://example.com/loader2.zip",
+      "status": "offline",
+      "version": "2.0.0",
+      "description": "Description du loader 2"
+    }
+    // Ajoutez autant de loaders que nécessaire
+  ]
+}
