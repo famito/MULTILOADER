@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "id": "category1",
+      "name": "Catégorie 1",
+      "description": "Description de la catégorie 1"
+    },
+    {
+      "id": "category2",
+      "name": "Catégorie 2",
+      "description": "Description de la catégorie 2"
+    }
+    // Ajoutez autant de catégories que nécessaire
+  ]
+}
