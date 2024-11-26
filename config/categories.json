@@ -2,14 +2,29 @@
   "categories": [
     {
       "id": "category1",
-      "name": "Catégorie 1",
+      "name": "MWIII",
       "description": "Description de la catégorie 1"
     },
     {
       "id": "category2",
-      "name": "Catégorie 2",
+      "name": "BO6",
       "description": "Description de la catégorie 2"
-    }
-    // Ajoutez autant de catégories que nécessaire
+    },
+    {
+      "id": "category3",
+      "name": "FORTNITE",
+      "description": "Description de la catégorie 2"
+    },
+    {
+      "id": "category4",
+      "name": "FIVEM",
+      "description": "Description de la catégorie 2"
+    },
+    {
+      "id": "category5",
+      "name": "OTHERS",
+      "description": "Description de la catégorie 2"
+    },
+    
   ]
 }
