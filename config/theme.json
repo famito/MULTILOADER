@@ -1,10 +1,10 @@
 {
   "theme": {
-    "primaryColor": "#101010",
-    "secondaryColor": "#171717",
-    "backgroundColor": "#1C1C1C",
-    "textColor": "#FFFFFF",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF00FF",
+    "backgroundColor": "#101010",
+    "textColor": "#FF0000",
     "hoverColor": "#FF0000",
-    "titleBarColor": "#FF0000"
+    "titleBarColor": "#FF9200"
   }
 }
