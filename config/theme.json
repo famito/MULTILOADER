@@ -2,7 +2,7 @@
   "theme": {
     "primaryColor": "#171717",
     "secondaryColor": "#1C1C1C",
-    "backgroundColor": "#1C1C1C",
+    "backgroundColor": "#171717",
     "textColor": "#FF0000",
     "hoverColor": "#FB3640",
     "titleBarColor": "#E8E8E8"
