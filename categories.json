@@ -1,6 +1,0 @@
-{
-    "categories": [
-        { "id": "games", "name": "Games", "icon": "https://example.com/icons/games.png" },
-        { "id": "tools", "name": "Tools", "icon": "https://example.com/icons/tools.png" }
-    ]
-}
