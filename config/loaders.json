@@ -2,22 +2,35 @@
   "loaders": [
     {
       "id": "loader1",
-      "name": "Loader 1",
-      "categoryId": "category1",
+      "name": "BO6 UNLOCK ALL",
+      "categoryId": "category2",
+      "imageUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/images/loader1.jpg",
       "downloadUrl": "https://example.com/loader1.zip",
       "status": "online",
       "version": "1.0.0",
       "description": "Description du loader 1"
     },
+
     {
       "id": "loader2",
-      "name": "Loader 2",
+      "name": "BO6 SILENT CHAIR",
       "categoryId": "category2",
+      "imageUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/images/loader1.jpg",
       "downloadUrl": "https://example.com/loader2.zip",
       "status": "offline",
       "version": "2.0.0",
       "description": "Description du loader 2"
-    }
-    // Ajoutez autant de loaders que nécessaire
+    },
+        {
+      "id": "loader2",
+      "name": "BO6 OMBRA CHAIR",
+      "categoryId": "category2",
+      "imageUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/images/loader1.jpg",
+      "downloadUrl": "https://example.com/loader2.zip",
+      "status": "offline",
+      "version": "2.0.0",
+      "description": "Description du loader 2"
+    },
+    
   ]
 }
