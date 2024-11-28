@@ -5,7 +5,7 @@
             "name": "BO6 UNLOCK ALL",
             "categoryId": "category2",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA_BO6_VISU.png",
-            "downloadUrl": "https://example.com/loader1.zip",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.BO6_INFERNO.exe",
             "status": "online",
             "version": "1.0.0"
         },
@@ -14,7 +14,7 @@
             "name": "BO6 SILENT CHAIR",
             "categoryId": "category2",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_BO6_VISU.png",
-            "downloadUrl": "https://example.com/loader2.zip",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_MAIN.exe",
             "status": "offline",
             "version": "1.0.0"
         },
@@ -23,7 +23,7 @@
             "name": "BO6 OMBRA CHAIR",
             "categoryId": "category2",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_OMBRA_VISU.png",
-            "downloadUrl": "https://example.com/loader3.zip",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3_HWID_PROTECTOR.exe",
             "status": "offline",
             "version": "1.0.0"
         }
