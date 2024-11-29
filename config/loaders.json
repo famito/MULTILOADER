@@ -15,7 +15,7 @@
             "categoryId": "category2",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_BO6_VISU.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_MAIN.exe",
-            "status": "offline",
+            "status": "updating",
             "version": "1.0.0"
         },
         {
@@ -26,6 +26,33 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3_HWID_PROTECTOR.exe",
             "status": "offline",
             "version": "1.0.0"
-        }
+        },
+        {
+            "id": "loader4",
+            "name": "FIVEM UNLOCK ALL",
+            "categoryId": "category3",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA_BO6_VISU.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.BO6_INFERNO.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader5",
+            "name": "FORTNITE UNLOCK ALL",
+            "categoryId": "category4",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA_BO6_VISU.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.BO6_INFERNO.exe",
+            "status": "offline",
+            "version": "1.0.0"
+        },
+        {
+            "id": "loader6",
+            "name": "FORTNITE EXTERNAL CHAIR",
+            "categoryId": "category4",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA_BO6_VISU.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.BO6_INFERNO.exe",
+            "status": "online",
+            "version": "1.0.0"
+        },
     ]
 }
