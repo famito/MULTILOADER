@@ -19,6 +19,18 @@
         {
             "id": "category5",
             "name": "OTHERS"
-        }
+        },
+                {
+            "id": "category6",
+            "name": "PC OPTI"
+        },
+                {
+            "id": "category7",
+            "name": "CS2"
+        },
+                {
+            "id": "category8",
+            "name": "VALORANT"
+        },
     ]
 }
