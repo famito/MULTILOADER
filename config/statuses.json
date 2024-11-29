@@ -2,19 +2,19 @@
   "statuses": [
     {
       "id": "online",
-      "label": "En ligne"
+      "label": "Online"
     },
     {
       "id": "offline",
-      "label": "Hors ligne"
+      "label": "Offline"
     },
     {
       "id": "updating",
-      "label": "Mise à jour"
+      "label": "Updating"
     },
     {
       "id": "custom",
-      "label": "Statut personnalisé"
+      "label": "In development"
     }
    
   ]
