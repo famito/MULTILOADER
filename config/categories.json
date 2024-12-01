@@ -12,7 +12,7 @@
       "fontFamily": "ModernWarfare-8MM6z.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
       "logoPosition": "left",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "mw3",
@@ -40,7 +40,7 @@
       "fontFamily": "HitmarkerText-Bold.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6.png",
       "logoPosition": "left",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "fortnite",
@@ -82,7 +82,7 @@
       "fontFamily": "Montserrat",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Fivem.png",
       "logoPosition": "left",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "cs2",
@@ -96,7 +96,7 @@
       "fontFamily": "High Speed.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/cs2.png",
       "logoPosition": "left",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "rust",
@@ -124,7 +124,7 @@
       "fontFamily": "Apex-Bold.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
       "logoPosition": "left",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "spoofers",
@@ -138,7 +138,7 @@
       "fontFamily": "Inter",
       "logoUrl": "",
       "logoPosition": "left",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "others",
