@@ -1,7 +1,7 @@
 {
     "loaders": [
         {
-            "id": "loader1",
+            "id": "loader",
             "name": "BO6 UNLOCK ALL",
             "categoryId": "category1",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
