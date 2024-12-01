@@ -1,56 +1,67 @@
 {
   "theme": {
     "core": {
-      "primary": "#4B0082",
-      "secondary": "#9370DB",
-      "accent": "#8A2BE2",
-      "success": "#4CAF50",
-      "error": "#FF5252",
-      "warning": "#FFC107"
+      /* Couleurs de marque personnalisables */
+      "primary": "#B71C1C",      /* Rouge foncé - couleur principale de la marque */
+      "secondary": "#EF5350",    /* Rouge clair - couleur secondaire */
+      "accent": "#FF1744",       /* Rouge vif - pour les accents et highlights */
+      
+      /* Couleurs de statut fixes - Ne pas modifier pour maintenir la cohérence UX */
+      "success": "#4CAF50",      /* FIXED: Vert standard pour succès */
+      "error": "#FF5252",        /* FIXED: Rouge standard pour erreur */
+      "warning": "#FFC107"       /* FIXED: Orange standard pour avertissement */
     },
     "background": {
-      "main": "#1F1B24",
-      "lighter": "#2D2438",
-      "darker": "#171520",
-      "overlay": "rgba(31, 27, 36, 0.85)"
+      /* Couleurs de fond sombres adaptées au thème rouge */
+      "main": "#1A1314",         /* Fond principal légèrement teinté de rouge */
+      "lighter": "#261A1B",      /* Version plus claire du fond */
+      "darker": "#140E0F",       /* Version plus sombre du fond */
+      "overlay": "rgba(26, 19, 20, 0.85)" /* Overlay assorti */
     },
     "text": {
-      "primary": "#E6E6FA",
-      "secondary": "#B8B8D1",
-      "disabled": "#6C6B7B"
+      /* Couleurs de texte fixes pour garantir la lisibilité */
+      "primary": "#FFFFFF",      /* FIXED: Blanc pour contraste maximal */
+      "secondary": "#E0E0E0",    /* FIXED: Gris clair pour texte secondaire */
+      "disabled": "#757575"      /* FIXED: Gris moyen pour texte désactivé */
     },
     "button": {
-      "categoryBackground": "#2D2438",
-      "categoryBorder": "#4B0082",
-      "categoryHover": "#8A2BE2",
-      "categoryActive": "#9370DB",
-      "categoryDisabled": "#1F1B24",
-      "actionBackground": "#4B0082",
-      "actionHover": "#8A2BE2",
-      "actionDisabled": "#2D2438"
+      /* Couleurs des boutons adaptées au thème rouge */
+      "categoryBackground": "#261A1B",
+      "categoryBorder": "#B71C1C",
+      "categoryHover": "#FF1744",
+      "categoryActive": "#EF5350",
+      "categoryDisabled": "#1A1314",
+      "actionBackground": "#B71C1C",
+      "actionHover": "#FF1744",
+      "actionDisabled": "#261A1B"
     },
     "loader": {
-      "statusOnline": "#4CAF50",
-      "statusOffline": "#FF5252",
-      "statusPending": "#FFC107",
-      "loadingDot": "#8A2BE2",
-      "progressBar": "#4B0082"
+      /* Couleurs de statut fixes pour la cohérence UX */
+      "statusOnline": "#4CAF50",    /* FIXED: Vert standard */
+      "statusOffline": "#FF5252",   /* FIXED: Rouge standard */
+      "statusPending": "#FFC107",   /* FIXED: Orange standard */
+      /* Couleurs de loader personnalisables */
+      "loadingDot": "#FF1744",
+      "progressBar": "#B71C1C"
     },
     "border": {
-      "light": "rgba(230, 230, 250, 0.1)",
-      "medium": "rgba(230, 230, 250, 0.2)",
-      "heavy": "rgba(230, 230, 250, 0.3)"
+      /* Opacités fixes pour la cohérence visuelle */
+      "light": "rgba(255, 255, 255, 0.1)",   /* FIXED: Bordure légère */
+      "medium": "rgba(255, 255, 255, 0.2)",  /* FIXED: Bordure moyenne */
+      "heavy": "rgba(255, 255, 255, 0.3)"    /* FIXED: Bordure marquée */
     },
     "shadow": {
-      "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
-      "medium": "0 4px 8px rgba(0, 0, 0, 0.3)",
-      "large": "0 8px 16px rgba(0, 0, 0, 0.4)"
+      /* Ombres fixes pour la cohérence visuelle */
+      "small": "0 2px 4px rgba(0, 0, 0, 0.2)",    /* FIXED */
+      "medium": "0 4px 8px rgba(0, 0, 0, 0.3)",   /* FIXED */
+      "large": "0 8px 16px rgba(0, 0, 0, 0.4)"    /* FIXED */
     },
     "fixed": {
-      "titleBar": "#2D2438",
-      "scrollbar": "#4B0082",
-      "tooltip": "#1F1B24",
-      "overlay": "rgba(31, 27, 36, 0.95)"
+      /* Éléments d'interface fixes */
+      "titleBar": "#261A1B",        /* FIXED: Assorti au thème mais fixe */
+      "scrollbar": "#B71C1C",       /* FIXED: Couleur primaire mais fixe */
+      "tooltip": "#1A1314",         /* FIXED: Fond principal mais fixe */
+      "overlay": "rgba(26, 19, 20, 0.95)" /* FIXED: Overlay plus opaque */
     }
   }
 }
