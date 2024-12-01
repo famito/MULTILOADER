@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "mw2",
-      "name": "Modern Warfare 2",
+      "name": "MW2",
       "shortName": "MW2",
       "gameId": "cod-mw2-2022",
       "brandColors": {
@@ -16,7 +16,7 @@
     },
     {
       "id": "mw3",
-      "name": "Modern Warfare 3",
+      "name": "MW3",
       "shortName": "MW3",
       "gameId": "cod-mw3-2023",
       "brandColors": {
@@ -86,7 +86,7 @@
     },
     {
       "id": "cs2",
-      "name": "Counter-Strike 2",
+      "name": "CS2",
       "shortName": "CS2",
       "gameId": "valve-cs2",
       "brandColors": {
