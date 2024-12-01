@@ -12,7 +12,7 @@
       "main": "#1C1C1C",
       "lighter": "#171718",
       "darker": "#140E0F",
-      "overlay": "rgba(20, 15, 15, 0.55)"
+      "overlay": "rgba(17, 15, 15, 0.55)"
     },
     "text": {
       "primary": "#FFFFFF",
