@@ -1,12 +1,56 @@
 {
   "theme": {
-
-    "primaryColor": "#4B0082",     // Violet profond pour les éléments principaux
-    "secondaryColor": "#9370DB",   // Violet plus clair pour les accents
-    "backgroundColor": "#1F1B24",  // Fond sombre avec une teinte violette
-    "textColor": "#E6E6FA",       // Lavande clair pour le texte
-    "hoverColor": "#8A2BE2",      // Violet vif pour les survols
-    "titleBarColor": "#2D2438"    // Violet très sombre pour la barre de titre
-
+    "core": {
+      "primary": "#4B0082",
+      "secondary": "#9370DB",
+      "accent": "#8A2BE2",
+      "success": "#4CAF50",
+      "error": "#FF5252",
+      "warning": "#FFC107"
+    },
+    "background": {
+      "main": "#1F1B24",
+      "lighter": "#2D2438",
+      "darker": "#171520",
+      "overlay": "rgba(31, 27, 36, 0.85)"
+    },
+    "text": {
+      "primary": "#E6E6FA",
+      "secondary": "#B8B8D1",
+      "disabled": "#6C6B7B"
+    },
+    "button": {
+      "categoryBackground": "#2D2438",
+      "categoryBorder": "#4B0082",
+      "categoryHover": "#8A2BE2",
+      "categoryActive": "#9370DB",
+      "categoryDisabled": "#1F1B24",
+      "actionBackground": "#4B0082",
+      "actionHover": "#8A2BE2",
+      "actionDisabled": "#2D2438"
+    },
+    "loader": {
+      "statusOnline": "#4CAF50",
+      "statusOffline": "#FF5252",
+      "statusPending": "#FFC107",
+      "loadingDot": "#8A2BE2",
+      "progressBar": "#4B0082"
+    },
+    "border": {
+      "light": "rgba(230, 230, 250, 0.1)",
+      "medium": "rgba(230, 230, 250, 0.2)",
+      "heavy": "rgba(230, 230, 250, 0.3)"
+    },
+    "shadow": {
+      "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
+      "medium": "0 4px 8px rgba(0, 0, 0, 0.3)",
+      "large": "0 8px 16px rgba(0, 0, 0, 0.4)"
+    },
+    "fixed": {
+      "titleBar": "#2D2438",
+      "scrollbar": "#4B0082",
+      "tooltip": "#1F1B24",
+      "overlay": "rgba(31, 27, 36, 0.95)"
+    }
   }
 }
