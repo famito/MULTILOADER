@@ -10,9 +10,9 @@
     },
     "background": {
       "main": "#1C1C1C",
-      "lighter": "#171718",
-      "darker": "#140E0F",
-      "overlay": "rgba(17, 15, 15, 0.55)"
+      "lighter": "#1a1a1a",
+      "darker": "#0f0f0f",
+      "overlay": "rgba(15, 15, 15, 0.55)"
     },
     "text": {
       "primary": "#FFFFFF",
@@ -33,7 +33,7 @@
       "statusOnline": "#4CAF50",
       "statusOffline": "#FF5252",
       "statusPending": "#FFC107",
-      "loadingDot": "#FF1c1c",
+      "loadingDot": "#FF1c1c"
     },
     "border": {
       "light": "rgba(255, 255, 255, 0.1)",
@@ -46,10 +46,10 @@
       "large": "0 8px 16px rgba(0, 0, 0, 0.4)"
     },
     "fixed": {
-      "titleBar": "#261A1B",
+      "titleBar": "#1a1a1a",
       "scrollbar": "#B71C1C",
-      "tooltip": "#1A1314",
-      "overlay": "rgba(26, 19, 20, 0.95)"
+      "tooltip": "#121212",
+      "overlay": "rgba(10, 10, 10, 0.95)"
     }
   }
 }
