@@ -6,7 +6,7 @@
       "shortName": "MW2",
       "gameId": "cod-mw2-2022",
       "brandColors": {
-        "primary": "#00DC82",
+        "primary": "#7fca2a",
         "secondary": "#00221B"
       },
       "fontFamily": "ModernWarfare-8MM6z.ttf",
@@ -20,7 +20,7 @@
       "shortName": "MW3",
       "gameId": "cod-mw3-2023",
       "brandColors": {
-        "primary": "#0BF2B3",
+        "primary": "#d80000",
         "secondary": "#001F29"
       },
       "fontFamily": "ModernWarfare-8MM6z.ttf",
@@ -34,7 +34,7 @@
       "shortName": "BO6",
       "gameId": "cod-bo6",
       "brandColors": {
-        "primary": "#FF6B00",
+        "primary": "#f96800",
         "secondary": "#1F1F1F"
       },
       "fontFamily": "HitmarkerText-Bold.ttf",
@@ -48,7 +48,7 @@
       "shortName": "FN",
       "gameId": "epic-fortnite",
       "brandColors": {
-        "primary": "#2F2F2F",
+        "primary": "#13cae3",
         "secondary": "#1DB8FF"
       },
       "fontFamily": "Fortnite.ttf",
@@ -62,7 +62,7 @@
       "shortName": "VAL",
       "gameId": "riot-valorant",
       "brandColors": {
-        "primary": "#FF4654",
+        "primary": "#ff4655",
         "secondary": "#1F1F1F"
       },
       "fontFamily": "Valorant Font.ttf",
@@ -76,7 +76,7 @@
       "shortName": "5M",
       "gameId": "cfx-fivem",
       "brandColors": {
-        "primary": "#FF6B00",
+        "primary": "#ff7100",
         "secondary": "#1F1F1F"
       },
       "fontFamily": "Montserrat",
@@ -90,7 +90,7 @@
       "shortName": "CS2",
       "gameId": "valve-cs2",
       "brandColors": {
-        "primary": "#1F1F1F",
+        "primary": "#fcac19",
         "secondary": "#FF6B00"
       },
       "fontFamily": "High Speed.ttf",
@@ -104,7 +104,7 @@
       "shortName": "RUST",
       "gameId": "facepunch-rust",
       "brandColors": {
-        "primary": "#CD412B",
+        "primary": "#f0514b",
         "secondary": "#1F1F1F"
       },
       "fontFamily": "D3SuperstructurismInline-MV0B.ttf",
@@ -118,25 +118,11 @@
       "shortName": "APEX",
       "gameId": "ea-apex",
       "brandColors": {
-        "primary": "#DA292A",
+        "primary": "#ed1b24",
         "secondary": "#1F1F1F"
       },
       "fontFamily": "Apex-Bold.ttf",
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
-      "logoPosition": "left",
-      "isDefault": false
-    },
-    {
-      "id": "spoofers",
-      "name": "Spoofers",
-      "shortName": "SPF",
-      "gameId": "other-spoofers",
-      "brandColors": {
-        "primary": "#9147FF",
-        "secondary": "#1F1F1F"
-      },
-      "fontFamily": "Inter",
-      "logoUrl": "",
       "logoPosition": "left",
       "isDefault": false
     },
