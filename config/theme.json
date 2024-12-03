@@ -9,10 +9,10 @@
       "warning": "#FFC107"
     },
     "background": {
-      "main": "#1C1C1C",
+      "main": "#050505",
       "lighter": "#1a1a1a",
       "darker": "#0f0f0f",
-      "overlay": "rgba(15, 15, 15, 0.55)"
+      "overlay": "rgba(15, 15, 15, 0.4)"
     },
     "text": {
       "primary": "#FFFFFF",
