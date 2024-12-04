@@ -2,9 +2,9 @@
 {
   "theme": {
     "core": {
-      "primary": "#ff1c1c",
+      "primary": "#FF9800",
       "secondary": "#1C1C1C",
-      "accent": "#b70d0c",
+      "accent": "#F57C00",
       "success": "#4CAF50",
       "error": "#FF5252",
       "warning": "#FFC107"
