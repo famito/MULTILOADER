@@ -29,7 +29,7 @@
       "actionBackground": "#1C1C1C",
       "actionHover": "#FF9800",
       "actionDisabled": "#FFE0B2"
-    }
+    },
     "loader": {
       "statusOnline": "#4CAF50",
       "statusOffline": "#FF5252",
