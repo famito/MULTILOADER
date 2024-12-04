@@ -34,7 +34,7 @@
       "statusOnline": "#4CAF50",
       "statusOffline": "#FF5252",
       "statusPending": "#FFC107",
-      "statusdev": "#1965eb",
+      "statusdev": "#1965eb"
     },
     "border": {
       "light": "rgba(255, 255, 255, 0.1)",
