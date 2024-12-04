@@ -21,15 +21,15 @@
       "disabled": "#757575"
     },
     "button": {
-      "categoryBackground": "#ff1c1c",
+      "categoryBackground": "#FF9800",
       "categoryBorder": "#1C1C1C",
-      "categoryHover": "#b70d0c",
-      "categoryActive": "#EF5350",
-      "categoryDisabled": "#FF5252",
+      "categoryHover": "#F57C00",
+      "categoryActive": "#FFB74D",
+      "categoryDisabled": "#FFE0B2",
       "actionBackground": "#1C1C1C",
-      "actionHover": "#ff1c1c",
-      "actionDisabled": "#FF5252"
-    },
+      "actionHover": "#FF9800",
+      "actionDisabled": "#FFE0B2"
+    }
     "loader": {
       "statusOnline": "#4CAF50",
       "statusOffline": "#FF5252",
