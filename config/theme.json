@@ -2,9 +2,9 @@
 {
   "theme": {
     "core": {
-      "primary": "#FF9800",
+      "primary": "#FF0000",
       "secondary": "#1C1C1C",
-      "accent": "#F57C00",
+      "accent": "#FF0000",
       "success": "#4CAF50",
       "error": "#FF5252",
       "warning": "#FFC107"
@@ -21,14 +21,14 @@
       "disabled": "#757575"
     },
     "button": {
-      "categoryBackground": "#FF9800",
+      "categoryBackground": "#FF0000",
       "categoryBorder": "#1C1C1C",
-      "categoryHover": "#F57C00",
-      "categoryActive": "#FFB74D",
-      "categoryDisabled": "#FFE0B2",
+      "categoryHover": "#FF0000",
+      "categoryActive": "#FF0000",
+      "categoryDisabled": "#FF0000",
       "actionBackground": "#1C1C1C",
-      "actionHover": "#FF9800",
-      "actionDisabled": "#FFE0B2"
+      "actionHover": "#FF0000",
+      "actionDisabled": "#FF0000"
     },
     "loader": {
       "statusOnline": "#4CAF50",
@@ -47,7 +47,7 @@
       "large": "0 8px 16px rgba(0, 0, 0, 0.4)"
     },
     "fixed": {
-      "titleBar": "#1a1a1a",
+      "titleBar": "#050505",
       "scrollbar": "#B71C1C",
       "tooltip": "#121212",
       "overlay": "rgba(10, 10, 10, 0.95)"
