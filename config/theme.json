@@ -1,56 +1,24 @@
-
 {
   "theme": {
     "core": {
       "primary": "#FF0000",
       "secondary": "#1C1C1C",
       "accent": "#FF0000",
-      "success": "#4CAF50",
-      "error": "#FF5252",
-      "warning": "#FFC107"
-    },
-    "background": {
-      "main": "#050505",
-      "lighter": "#1a1a1a",
-      "darker": "#0f0f0f",
-      "overlay": "rgba(15, 15, 15, 0.3)"
+      "scrollbar": "#B71C1C"
     },
     "text": {
       "primary": "#FFFFFF",
-      "secondary": "#E0E0E0",
-      "disabled": "#757575"
+      "secondary": "#E0E0E0"
     },
     "button": {
-      "categoryBackground": "#FF0000",
-      "categoryBorder": "#1C1C1C",
-      "categoryHover": "#FF0000",
-      "categoryActive": "#FF0000",
-      "categoryDisabled": "#FF0000",
-      "actionBackground": "#1C1C1C",
-      "actionHover": "#FF0000",
-      "actionDisabled": "#FF0000"
+      "category": "#FF0000",
+      "action": "#1C1C1C"
     },
-    "loader": {
-      "statusOnline": "#4CAF50",
-      "statusOffline": "#FF5252",
-      "statusPending": "#FFC107",
-      "statusdev": "#1965eb"
-    },
-    "border": {
-      "light": "rgba(255, 255, 255, 0.1)",
-      "medium": "rgba(255, 255, 255, 0.2)",
-      "heavy": "rgba(255, 255, 255, 0.3)"
-    },
-    "shadow": {
-      "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
-      "medium": "0 4px 8px rgba(0, 0, 0, 0.3)",
-      "large": "0 8px 16px rgba(0, 0, 0, 0.4)"
+    "background": {
+      "main": "#050505"
     },
     "fixed": {
-      "titleBar": "#050505",
-      "scrollbar": "#B71C1C",
-      "tooltip": "#121212",
-      "overlay": "rgba(10, 10, 10, 0.95)"
+      "titleBar": "#050505"
     }
   }
 }
