@@ -12,7 +12,7 @@
     },
     "button": {
       "category": "#FF0000",
-      "action": "#1C1C1C"
+      "action": "#FF0000"
     },
     "background": {
       "main": "#050505"
