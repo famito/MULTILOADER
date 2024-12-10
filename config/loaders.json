@@ -1,5 +1,4 @@
 {
-    "content": {
         "loaders": [
             {
                 "id": "loader",
@@ -110,6 +109,4 @@
                 "version": "1.0.0"
             }
         ]
-    },
-    "sha": "38bc488c912f82b8759d194a8863680c012b5aff"
 }
