@@ -1,8 +1,8 @@
 {
   "version": "1.0.2",
-  "categoriesUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/refs/heads/main/config/categories.json",
-  "loadersUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/refs/heads/main/config/loaders.json",
-  "linksUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/refs/heads/main/config/links.json",
-  "statusesUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/refs/heads/main/config/statuses.json",
-  "themeUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/refs/heads/main/config/theme.json"
+  "categoriesUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/config/categories.json",
+  "loadersUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/config/loaders.json",
+  "linksUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/config/links.json",
+  "statusesUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/config/statuses.json",
+  "themeUrl": "https://raw.githubusercontent.com/famito/MULTILOADER/main/config/theme.json"
 }
