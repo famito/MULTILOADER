@@ -6,7 +6,7 @@
                 "categoryId": "bo6",
                 "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
                 "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_UA.exe",
-                "status": "online",
+                "status": "updating",
                 "version": "1.0.0"
             },
             {
@@ -15,7 +15,7 @@
                 "categoryId": "bo6",
                 "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_BO6_VISU.png",
                 "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_SILENT_IRIS.exe",
-                "status": "online",
+                "status": "offline",
                 "version": "1.0.0"
             },
             {
