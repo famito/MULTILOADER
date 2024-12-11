@@ -1,13 +1,13 @@
 {
   "theme": {
     "core": {
-      "primary": "#9200FF",
+      "primary": "#FF00FF",
       "secondary": "#1C1C1C",
-      "accent": "#9200FF",
+      "accent": "#FF00FF",
       "scrollbar": "#B71C1C"
     },
     "text": {
-      "primary": "#9200FF",
+      "primary": "#FFFFFF",
       "secondary": "#E0E0E0"
     },
     "button": {
