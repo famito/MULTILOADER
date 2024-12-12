@@ -1,28 +1,21 @@
 {
-  "metadata": {
-    "version": "1.0.0",
-    "lastUpdated": "2024-12-12T00:00:00Z",
-    "sha": "automatically_generated_sha",
-    "updatedBy": "system"
-  },
-  "data": {
-    "statuses": [
-      {
-        "id": "online",
-        "label": "Online"
-      },
-      {
-        "id": "offline",
-        "label": "Offline"
-      },
-      {
-        "id": "updating",
-        "label": "Updating"
-      },
-      {
-        "id": "custom",
-        "label": "In development"
-      }
-    ]
-  }
+  "statuses": [
+    {
+      "id": "online",
+      "label": "Online"
+    },
+    {
+      "id": "offline",
+      "label": "Offline"
+    },
+    {
+      "id": "updating",
+      "label": "Updating"
+    },
+    {
+      "id": "custom",
+      "label": "In development"
+    }
+
+  ]
 }
