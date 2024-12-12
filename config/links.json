@@ -1,16 +1,8 @@
 {
-  "metadata": {
-    "version": "1.0.0",
-    "lastUpdated": "2024-12-12T00:00:00Z",
-    "sha": "automatically_generated_sha",
-    "updatedBy": "system"
-  },
-  "data": {
-    "links": {
-      "discord": "https://discord.gg/iriscorp",
-      "website": "https://iriscorp.mysellauth.com/",
-      "manualGuide": "https://iris-corporation.gitbook.io/guide",
-      "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png"
-    }
+  "links": {
+    "discord": "https://discord.gg/iriscorp",
+    "website": "https://iriscorp.mysellauth.com/",
+    "manualGuide": "https://iris-corporation.gitbook.io/guide",
+    "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png"
   }
 }
