@@ -1,32 +1,24 @@
 {
-  "metadata": {
-    "version": "1.0.0",
-    "lastUpdated": "2024-12-12T00:00:00Z",
-    "sha": "automatically_generated_sha",
-    "updatedBy": "system"
-  },
-  "data": {
-    "theme": {
-      "core": {
-        "primary": "#FF0000",
-        "secondary": "#1C1C1C",
-        "accent": "#FF0000",
-        "scrollbar": "#B71C1C"
-      },
-      "text": {
-        "primary": "#FFFFFF",
-        "secondary": "#E0E0E0"
-      },
-      "button": {
-        "category": "#FF0000",
-        "action": "#FF0000"
-      },
-      "background": {
-        "main": "#050505"
-      },
-      "fixed": {
-        "titleBar": "#050505"
-      }
+  "theme": {
+    "core": {
+      "primary": "#FF0000",
+      "secondary": "#1C1C1C",
+      "accent": "#FF0000",
+      "scrollbar": "#B71C1C"
+    },
+    "text": {
+      "primary": "#FFFFFF",
+      "secondary": "#E0E0E0"
+    },
+    "button": {
+      "category": "#FF0000",
+      "action": "#FF0000"
+    },
+    "background": {
+      "main": "#050505"
+    },
+    "fixed": {
+      "titleBar": "#050505"
     }
   }
 }
